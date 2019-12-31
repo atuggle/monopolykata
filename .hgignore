@@ -1,0 +1,16 @@
+syntax: glob
+TestResults
+bin
+obj
+*.cache
+*.suo
+*.user
+*.Publish.xml
+*.trx
+*.sdf
+*.o
+*.vssscc
+MonopolyKata/MonopolyKata.csproj.vspscc
+*.vspscc
+syntax: regexp
+Moq.4.0.1
